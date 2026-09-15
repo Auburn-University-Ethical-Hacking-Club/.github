@@ -14,7 +14,7 @@ Our goal is to introduce students to the broad field of cybersecurity and provid
 Our membership consists of Undergraduate, Master's, and PhD students from across the Samuel Ginn College of Engineering.
 
 ### Meeting Times
-AUEHC meets weekly on Tuesdays at 5pm in Shelby 3129
+AUEHC meets weekly on Tuesdays at 5pm in Shelby 2117
 
 ### How to Join
 Membership can be attained through a payment of a nominal yearly fee set by EHC officers. You can view more information on dues and request to join through AU Involve.
